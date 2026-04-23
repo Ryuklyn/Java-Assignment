@@ -6,6 +6,7 @@ services:
       POSTGRES_DB: griddb
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: secret
+      TZ: UTC
       PGTZ: UTC
     ports:
       - "5432:5432"

@@ -1,3 +1,13 @@
+com\example\demo\service\PostService.class
 com\example\demo\DemoApplication.class
+com\example\demo\repository\CommentRepository.class
+com\example\demo\controller\PostController.class
+com\example\demo\dto\CreateCommentRequest.class
 com\example\demo\model\User.class
 com\example\demo\repository\UserRepository.class
+com\example\demo\model\Bot.class
+com\example\demo\service\CommentService.class
+com\example\demo\model\Post.class
+com\example\demo\dto\CreatePostRequest.class
+com\example\demo\model\Comment.class
+com\example\demo\repository\PostRepository.class
